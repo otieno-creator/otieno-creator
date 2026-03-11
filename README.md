@@ -1,6 +1,6 @@
 # Hi there, I'm Otieno Dan! 👋
 
-### 🚀 Aspiring Data Engineer | AWS Security Champion | Cloud Native Enthusiast
+###  Aspiring Data Engineer | AWS Security Champion | Cloud Native Enthusiast
 
 I am a results-driven transitioner into **Data Engineering**, leveraging a background in System Administration to build secure, scalable data pipelines. I am currently mastering Kubernetes and Python automation to hit my goal of being job-ready by September 2026.
 
