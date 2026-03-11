@@ -28,4 +28,4 @@ I am a results-driven transitioner into **Data Engineering**, leveraging a backg
 - 🔭 Mastering **Containerization** to deploy resilient data workloads.
 - 💬 Ask me about: Cloud Security, Linux system optimization, or my 6-month DE roadmap!
 
-[LinkedIn](www.linkedin.com/in/otienodan) | [Portfolio] (Coming Soon)
+[LinkedIn](https://www.linkedin.com/in/otienodan)) | [Portfolio] (Coming Soon)
