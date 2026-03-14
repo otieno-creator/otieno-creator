@@ -43,7 +43,7 @@ Let’s collaborate on secure data solutions or cybersecurity projects!
 - **LinkedIn:** [linkedin.com/in/otieno-dan](https://www.linkedin.com/in/otienodan) 
 - **Email:** [otienodan196@gmail.com](mailto:otienodan196@gmail.com)
 - **Medium:** [@otienodan196](https://medium.com/@otienodan196)
-- **Phone:** [+254 746 743 259](tel:+254746743259)
+- **Phone:** [- 💬 **WhatsApp:** [Message me on WhatsApp](https://wa.me/254746743259?text=Hi%20Dan,%20I%20saw%20your%20GitHub%20profile...))
 
 ---
 <p align="center">
