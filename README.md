@@ -1,31 +1,51 @@
 # Hi there, I'm Otieno Dan! 👋
 
-###  Aspiring Data Engineer | AWS Security Champion | Cloud Native Enthusiast
+###  Aspiring Data Engineer | AWS Security Champion | Cybersecurity Enthusiast
 
-I am a results-driven transitioner into **Data Engineering**, leveraging a background in System Administration to build secure, scalable data pipelines. I am currently mastering Kubernetes and Python automation to hit my goal of being job-ready by September 2026.
-
----
-
-### 🛡️ Certifications & Badges
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otienodan)
-![AWS Security Champion](https://img.shields.io/badge/AWS-Security_Champion-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![KCNA in Progress](https://img.shields.io/badge/Learning-KCNA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+I am a results-driven professional transitioning into **Data Engineering**, leveraging a background in System Administration to build secure, scalable data systems. My mission is to bridge the gap between complex data pipelines and robust security protocols.
 
 ---
 
-### 🛠️ Tech Stack
-- **Languages:** Python (Pandas, NumPy), SQL (PostgreSQL, DuckDB)
-- **Cloud & DevOps:** AWS, Kubernetes (Learning), Docker, Git/GitHub
-- **Operating Systems:** Linux (Kali, Ubuntu), Windows Server
+###  At a Glance
+-  **Current Focus:** Masterfully building secure ETL pipelines and automating network reconnaissance.
+-  **Learning Path:** Deep-diving into **Kubernetes (KCNA)** and advanced **Cloud-Native** architectures.
+-  **Goal:** Professional Data Engineering role by September 2026.
+-  **Fun Fact:** I balance my technical labs with competitive target shooting.
 
 ---
 
-### 📊 GitHub Stats
-![Dan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=otieno-creator&show_icons=true&theme=radical)
+###  Tech Stack & Tools
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Data Engineering** | Python (Pandas, NumPy), SQL (PostgreSQL, MySQL), ETL Design |
+| **Cloud & Security** | AWS (Security Champion), IAM Policy Design, Nmap, Kali Linux |
+| **Infrastructure** | Kubernetes, Docker, Linux System Administration |
+| **Automation** | Bash Scripting, Python Automation |
 
 ---
 
-### 📈 Current Focus
-- 🌱 Building end-to-end data pipelines using **Python & SQL**.
-- 🔭 Mastering **Containerization** for resilient data workloads.
-- 💬 Ask me about: Cloud Security or my 6-month DE roadmap!
+###  Certifications & Achievements
+- **AWS Security Champion** (Feb 2026)
+- **AWS Certified Cloud Practitioner** (2025)
+- **KCNA** (In Progress ⏳)
+
+---
+
+###  Technical Writing & Insights
+I share my learning journey and technical deep-dives on Medium:
+👉 **[Read my articles on Medium](https://medium.com/@otienodan196)**
+
+---
+
+###  Connect with Me
+Let’s collaborate on secure data solutions or cybersecurity projects!
+
+- **LinkedIn:** [linkedin.com/in/otieno-dan](www.linkedin.com/in/otienodan) 
+- **Email:** [otienodan196@gmail.com](mailto:otienodan196@gmail.com)
+- **Medium:** [@otienodan196](https://medium.com/@otienodan196)
+- **Phone:** [+254 746 743 259](tel:+254746743259)
+
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=otieno-creator&show_icons=true&theme=tokyonight" alt="Otieno's GitHub Stats" />
+</p>
