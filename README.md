@@ -40,7 +40,7 @@ I share my learning journey and technical deep-dives on Medium:
 ###  Connect with Me
 Let’s collaborate on secure data solutions or cybersecurity projects!
 
-- **LinkedIn:** [linkedin.com/in/otieno-dan](www.linkedin.com/in/otienodan) 
+- **LinkedIn:** [linkedin.com/in/otieno-dan](https://www.linkedin.com/in/otienodan) 
 - **Email:** [otienodan196@gmail.com](mailto:otienodan196@gmail.com)
 - **Medium:** [@otienodan196](https://medium.com/@otienodan196)
 - **Phone:** [+254 746 743 259](tel:+254746743259)
